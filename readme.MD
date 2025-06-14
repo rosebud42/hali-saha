@@ -8,12 +8,19 @@ Proje yapısı :
 halisaha/
 │
 ├── connection.php          # Veritabanı bağlantısı
+
 ├── db_operations.php       # CRUD işlemleri
+
 ├── index.php               # Anasayfa (mevcut oyunlar listesi)
+
 ├── create_game.php         # Yeni oyun oluşturma formu
+
 ├── game_details.php        # Oyun detayları ve katılma/pozisyon seçimi
+
 ├── post_operations.php     # Form işlemlerinin işlendiği yer
+
 ├── login.php / logout.php  # Giriş / çıkış işlemleri
+
 
 
 ## Site işlevleri : 
