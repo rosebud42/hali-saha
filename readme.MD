@@ -6,7 +6,9 @@ Bu Proje Bursa Teknik Üniversitesi Bilgisayar Mühendisliği'nde Web Tabanlı P
 Proje yapısı : 
 
 halisaha/
+
 │
+
 ├── connection.php          # Veritabanı bağlantısı
 
 ├── db_operations.php       # CRUD işlemleri
